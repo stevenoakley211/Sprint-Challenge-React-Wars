@@ -27,13 +27,13 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
 - [ ] What does it mean to _think_ in react?
-
+    To build reausable state based components
 - [ ] Describe state.
-
+    A variable that changes over time
 - [ ] Describe props.
-
+    Props are used to pass variables and functions from parent to child and are read only
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
-
+Side effects are things that happen after a component is rendered and you sync them up with the useEffect hook
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
