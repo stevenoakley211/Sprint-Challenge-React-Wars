@@ -15,13 +15,7 @@ const CharacterCard = props => {
     margin: 20px;
     font-family:'Helvetica';
     `
-    // const Image = styled.img `
-    //     max-width:100%;
-    //     border-radius: 5px;
-    // `
-    // const Paragraph = styled.p `
-    //     font-size:1.25em;
-    // `
+   
     return(
         <Card>
             <StyledH1>{props.name}</StyledH1>
